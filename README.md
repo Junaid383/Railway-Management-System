@@ -1,0 +1,2 @@
+# Railway-Management-System
+To develop a management system which will help in keeping track of trains, their routes, passengers on board etc.  It will also keep record of railway station's employees, their duties, salaries and other attributes as well. This system will also work online for the facility of customers where they can buy tickets and can view schedule of trains. It will provide online reservations, cancellation, payments, receipt generation and journey records.
